@@ -4,7 +4,6 @@ ID:CT08DS6702
 Domain:UI/UX DESIGN 
 Duration:AUGUST TO SEPTEMPER 2024 
 Mentor:NEELA SANTHOSH KUMAR
-
 1. Define Objectives and Requirements
 Before diving into wireframing, clarify the purpose of the app and its core features. Determine the user needs, goals, and the primary functions the app must perform.
 2. Sketch Out Basic Layout
