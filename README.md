@@ -32,25 +32,4 @@ Interaction Points: Where users will tap, swipe, or input information.
 Include notes to explain specific features, interactions, or transitions. This helps communicate your vision to developers and stakeholders.
 7. Review and Iterate
 Gather feedback from stakeholders, potential users, or team members. Refine the wireframes based on their input and adjust the layout or functionality as needed.
-8. Finalize Wireframes
-Once you’ve iterated and received approval, finalize the wireframes. These will serve as a blueprint for the design and development phases.
-Tips for Effective Wireframing
-Keep it Simple: Focus on structure and functionality, avoiding color or intricate details.
-Use Standard UI Elements: To ensure usability and consistency.
-Prioritize Usability: Make sure the layout is intuitive and easy to navigate.
-Be Flexible: Be prepared to make changes based on feedback or new insights.
-Example Screens
-Home Screen Wireframe:
-Header with app name and search icon.
-Main content with a scrollable list of items.
-Bottom navigation bar with icons for home, search, notifications, and profile.
-Detail Screen Wireframe:
-Header with back button and title.
-Content area with detailed information.
-Action buttons (e.g., add to cart, share).
-Settings/Profile Screen Wireframe:
-Header with profile picture and edit button.
-List of settings options (e.g., account settings, notifications).
-Footer with logout button.
-Creating a wireframe is a foundational step in building an effective mobile app. It helps ensure that all stakeholders are aligned on the app's structure and functionality before investing in detailed design and development.
 ![selvi](https://github.com/user-attachments/assets/4182b657-e840-47c8-8a18-4f29b9b84777)
